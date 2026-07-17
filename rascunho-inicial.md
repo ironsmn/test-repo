@@ -1,4 +1,21 @@
-# 1) Estrutura do site
+# Objetivo 
+Criar um site para a STRYKERS, organização que joga o jogo Star Citizen.
+
+## Sobre a STRYKERS
+A STRYKERS é uma força paramilitar que atua dentro do mundo estabelecido no jogo Star Citizen.
+A STRYKERS é uma força paramilitar brasileira organizada, que atua com hierarquia, estratégia e cooperação em todos os setores do universo do jogo Star Citizen. Seja em solo ou no espaço, operamos com profissionalismo e foco tático, oferecendo aos membros uma experiência imersiva baseada em operações reais, treinamentos, campanhas militares e um senso forte de unidade.
+Aqui, você não apenas joga — você se alista, treina, cresce e se torna parte de uma tropa onde cada membro tem valor e função.
+Do Recruta ao Marechal, todos têm um papel vital na engrenagem da corporação.
+Se você busca organização, camaradagem, disciplina e oportunidades reais de evolução, aliste-se.
+A STRYKERS está em marcha — com ou sem você.
+
+Nossa missão é criar uma estrutura militar funcional, divertida e acolhedora. Cada membro é valorizado e guiado por uma hierarquia clara, com foco em treinamentos, missões, campanhas e evolução pessoal.
+
+Por que existimos: Queremos mais do que jogar - buscamos imersão, identidade e propósito dentro do universo. Seja como recruta, instrutor ou comandante de uma nave capital, na STRYKERS você sempre terá um caminho para crescer.
+
+Moto: Disciplina. Ordem. Supremacia.
+
+# 1) Arquitetura do Site
 ## 1.1 Atores
 ### 1.1.1 Administradores
 Usuários com permissões de acesso elevado no site.
