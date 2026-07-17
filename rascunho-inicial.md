@@ -188,38 +188,38 @@ Nesta página, apresentaremos os Uniformes do padrão STRYKER no Star Citizen ut
 
 ## 2.11 Sites Úteis
 Lista de sites úteis com uma breve descrição deles e para o que eles servem ou para o que são úteis.
-https://starcitizen.tools/
-https://www.spviewer.eu/
-https://www.erkul.games/calculator
-https://finder.cstone.space/
-https://sc-trade.tools/home
-https://uexcorp.space/
-https://scmdb.net/
-https://robertsspaceindustries.com/galactapedia
-https://scblueprints.app/
-https://sccrafter.com/
-https://sc-market.space/
-https://verseguide.com/
-https://wikelotrades.com/
-https://battlestations.osiris-devworks.com/
-https://maps.adi.sc/
-https://wikelotrades.com/
-https://ccugame.app/
-https://fleetyards.net/
-https://docs.google.com/spreadsheets/d/1hPtkQZPNzyahafSuZlPWVj-SMnWxAw-Y5LgSIj62fq4/edit?pli=1&gid=0#gid=0
+- https://starcitizen.tools/
+- https://www.spviewer.eu/
+- https://www.erkul.games/calculator
+- https://finder.cstone.space/
+- https://sc-trade.tools/home
+- https://uexcorp.space/
+- https://scmdb.net/
+- https://robertsspaceindustries.com/galactapedia
+- https://scblueprints.app/
+- https://sccrafter.com/
+- https://sc-market.space/
+- https://verseguide.com/
+- https://wikelotrades.com/
+- https://battlestations.osiris-devworks.com/
+- https://maps.adi.sc/
+- https://wikelotrades.com/
+- https://ccugame.app/
+- https://fleetyards.net/
+- https://docs.google.com/spreadsheets/d/1hPtkQZPNzyahafSuZlPWVj-SMnWxAw-Y5LgSIj62fq4/edit?pli=1&gid=0#gid=0
 
 ## 2.12 Ferramentas Úteis
 Lista de ferramentas úteis para serem usadas dentro do Star Citizen, com uma breve descrição delas e para o que elas servem ou para o que são úteis.
-https://github.com/Osiris-DevWorks/smart-citizen
-https://github.com/MrKraken/StarStrings
+- https://github.com/Osiris-DevWorks/smart-citizen
+- https://github.com/MrKraken/StarStrings
 
 ## 2.13 Lojas Online
 Lista de sites de lojas online relacionados ao Star Citizen, com uma breve descrição deles e para o que eles servem ou para o que são úteis.
-https://theimpound.com/
-https://star-hangar.com/
-https://www.pigeonspaceport.com/
-https://winctrl.com/view/
-https://virpil-controls.us.com/
-https://mozaracing.com/
+- https://theimpound.com/
+- https://star-hangar.com/
+- https://www.pigeonspaceport.com/
+- https://winctrl.com/view/
+- https://virpil-controls.us.com/
+- https://mozaracing.com/
 https://vkbcontrollers.com/
 https://www.logitech.com/en-us/shop/c/simulation
