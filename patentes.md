@@ -1,6 +1,5 @@
-# Hierarquia das Forças Armadas Brasileiras
+# Hierarquia das Forças Armadas
 
----
 
 # Marinha
 
@@ -25,7 +24,7 @@
 |    17 | Praça                                          | **Cabo**                                  | CB         | Graduação superior à de Marinheiro ou Soldado Fuzileiro Naval.                   |
 |    18 | Praça                                          | **Marinheiro Especializado**              | MN-EP      | Marinheiro com formação ou especialização profissional.                          |
 |    19 | Praça                                          | **Marinheiro**                            | MN         | Graduação básica do Corpo de Praças da Armada.                                   |
-|    20 | Formação                                       | **Marinheiro-Recruta**                    | MN-RC      | Militar no período inicial de formação.                                          |
+|    20 | Formação                                       | **Marinheiro-Recruta**                    | Rec        | Militar no período inicial de formação.                                          |
 |    21 | Praça                                          | **Soldado Fuzileiro Naval Especializado** | SD-FN-EP   | Correspondente especializado da base da carreira dos Fuzileiros Navais.          |
 |    22 | Praça                                          | **Soldado Fuzileiro Naval**               | SD-FN      | Graduação básica dos Fuzileiros Navais.                                          |
 |    23 | Formação                                       | **Recruta Fuzileiro Naval**               | RC-FN      | Militar em formação inicial para o Corpo de Fuzileiros Navais.                   |
@@ -33,7 +32,6 @@
 |    25 | Aluno                                          | **Grumete**                               | GR         | Aluno em formação em estabelecimento de ensino de praças da Marinha.             |
 |    26 | Aluno                                          | **Aprendiz-Marinheiro**                   | AM         | Aluno das Escolas de Aprendizes-Marinheiros.                                     |
 
----
 
 # Exército 
 
@@ -56,12 +54,11 @@
 |    15 | Praça                                          | **Segundo-Sargento**            | 2º Sgt.    | Graduação intermediária entre os sargentos.                                 |
 |    16 | Praça                                          | **Terceiro-Sargento**           | 3º Sgt.    | Primeira graduação do círculo dos sargentos.                                |
 |    17 | Praça                                          | **Cabo**                        | Cb.        | Graduação superior à de Soldado.                                            |
-|    18 | Praça                                          | **Taifeiro de Primeira Classe** | T1         | Integrante do quadro de taifeiros em graduação superior.                    |
-|    19 | Praça                                          | **Taifeiro de Segunda Classe**  | T2         | Integrante do quadro de taifeiros em graduação inicial.                     |
-|    20 | Praça                                          | **Soldado**                     | Sd.        | Graduação básica do Exército Brasileiro.                                    |
-|    21 | Formação                                       | **Recruta**                     | Rec.    | Soldado durante o período inicial de instrução militar.                     |
+|    18 | Praça                                          | **Soldado de Primeira Classe**  | S1         | Integrante do quadro de taifeiros em graduação superior.                    |
+|    19 | Praça                                          | **Soldado de Segunda Classe**   | S2         | Integrante do quadro de taifeiros em graduação inicial.                     |
+|    20 | Praça                                          | **Soldado**                     | S3         | Graduação básica do Exército.                                    |
+|    21 | Formação                                       | **Recruta**                     | Rec.       | Soldado durante o período inicial de instrução militar.                     |
 
----
 
 # Força Aérea
 
@@ -89,6 +86,3 @@
 |    20 | Praça                                          | **Taifeiro de Primeira Classe**       | T1            | Integrante do quadro de taifeiros em graduação superior.                               |
 |    21 | Praça                                          | **Soldado de Segunda Classe**         | S2            | Graduação inicial dos soldados da Aeronáutica.                                         |
 |    22 | Praça                                          | **Taifeiro de Segunda Classe**        | T2            | Integrante do quadro de taifeiros em graduação inicial.                                |
-
----
-
