@@ -176,12 +176,12 @@ Central de comunicação onde mensagens/informativos serão compartilhados dentr
 Nesta página, apresentaremos o histórico (log) das condecorações e das promoções. 
 
 ### 2.9.1 Insígnias de Condecoração
-🎖️ Medalha de Mérito Operacional: Concedida a membros que demonstraram excelência em incursões táticas e operações hostis com sucesso.
-🛡️ Medalha de Defesa Avançada: Reconhecimento por atuações destacadas na proteção de VIPs, comboios e zonas estratégicas sob ameaça.
-🥇 Medalha de Elite Aérea: Premiação para pilotos que demonstraram superioridade aérea, manobras avançadas e domínio total em combate espacial.
-🥈 Medalha de Infantaria Pesada: Concedida a soldados de chão que atuaram com coragem, disciplina e precisão em combates terrestres e manobras com veículos.
-🦅 Insígnia da Águia Dourada: Honraria rara, concedida apenas aos que lideraram operações completas com sucesso total, mostrando comando, estratégia e disciplina.
-🪙 Distintivo de Honra Logística: Entregue a operadores de logística e transporte que garantiram o sucesso de missões com eficiência e organização impecável.
+- 🎖️ Medalha de Mérito Operacional: Concedida a membros que demonstraram excelência em incursões táticas e operações hostis com sucesso.
+- 🛡️ Medalha de Defesa Avançada: Reconhecimento por atuações destacadas na proteção de VIPs, comboios e zonas estratégicas sob ameaça.
+- 🥇 Medalha de Elite Aérea: Premiação para pilotos que demonstraram superioridade aérea, manobras avançadas e domínio total em combate espacial.
+- 🥈 Medalha de Infantaria Pesada: Concedida a soldados de chão que atuaram com coragem, disciplina e precisão em combates terrestres e manobras com veículos.
+- 🦅 Insígnia da Águia Dourada: Honraria rara, concedida apenas aos que lideraram operações completas com sucesso total, mostrando comando, estratégia e disciplina.
+- 🪙 Distintivo de Honra Logística: Entregue a operadores de logística e transporte que garantiram o sucesso de missões com eficiência e organização impecável.
 
 ## 2.10 Uniformes
 Nesta página, apresentaremos os Uniformes do padrão STRYKER no Star Citizen utilizados pelas três forças: Marinha, Exército e Força Aérea.
