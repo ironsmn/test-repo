@@ -68,17 +68,9 @@ No perfil do usuário, possuirá:
 
 O perfil do usuário é de acesso público dentro do site entre os Usuários Cadastrados.
 
-## 1.5 Forças Armadas
-As Forças Armadas são: Marinha, Exército e Força Aérea.
-
-## 1.6 Forças Especiais
-As Forças Especiais são:
-- GHOST, subordinados à Marinha.
-- STORM, subordinados ao Exército.
-- SPEAR, subordinados à Força Aérea.
-
-## 1.7 Patentes
+## 1.5 Patentes
 As Patentes estão listadas no arquivo patentes.md.
+As Patentes servem para definir o nível de acesso que o Usuário Cadastrado terá no sistema.
 
 # 2) Páginas do Site
 
