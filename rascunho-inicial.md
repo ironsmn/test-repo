@@ -64,7 +64,7 @@ No perfil do usuário, possuirá:
 - "Histórico Militar", contendo todo o histórico de participação do usuário, como:
 - "Contribuições", caso possua algum trabalho "Voluntário" concluído ou alguma contribuição agregada aos "Objetivos".
 - "Condecorações", caso possua alguma.
-- "Página Star Citizen", URL completo do perfil do usuário no site do Star Citizen, https://robertsspaceindustries.com/citizens/<Apelido>, onde <Apelido> é substituido pelo Star Citizen "handle" cadastrado pelo usuário.
+- "Página Star Citizen", URL completo do perfil do usuário no site do Star Citizen, https://robertsspaceindustries.com/citizens/Apelido, onde "Apelido" é substituído pelo Star Citizen "handle" cadastrado pelo usuário.
 
 O perfil do usuário é de acesso público dentro do site entre os Usuários Cadastrados.
 
